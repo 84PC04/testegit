@@ -5,6 +5,8 @@
  */
 package exemplogit;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author admin
@@ -16,6 +18,7 @@ public class ExemploGit {
      */
     public static void main(String[] args) {
         System.out.print("modafoca");
+        JOptionPane.showMessageDialog(parentComponent, "mimi");
     }
     
 }
