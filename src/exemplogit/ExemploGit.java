@@ -17,8 +17,8 @@ public class ExemploGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("modafoca");
-        JOptionPane.showMessageDialog(parentComponent, "mimi");
+        System.out.print("HelloWorld);
+        JOptionPane.showMessageDialog(parentComponent, "mimimi");
     }
     
 }
